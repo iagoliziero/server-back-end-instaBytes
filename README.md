@@ -1,5 +1,7 @@
 
-## 👜 Documentação do Projeto de Backend: Servidor Integrado com MongoDB e Google Gemini.
+## 👜 Documentação do Projeto de Backend
+
+![img](https://github.com/user-attachments/assets/a20ef64f-3dc4-4dc8-9e61-8670dfb98135)
 
 ##  Objetivo do Projeto:
 
