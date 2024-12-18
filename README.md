@@ -152,8 +152,8 @@ npm install @google/generative-ai
 
 #### Configure as variáveis de ambiente no arquivo .env:
 
-- STRING_CONEXAO=<sua_string_de_conexao_com_mongodb>
-- GEMINI_API_KEY=<sua_chave_de_api_google_gemini>
+- `STRING_CONEXAO=<sua_string_de_conexao_com_mongodb>`
+- `GEMINI_API_KEY=<sua_chave_de_api_google_gemini>`
 
 
 ## Referência
